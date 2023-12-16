@@ -10,10 +10,18 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "b4922ac6-2050-42eb-80e3-c0faa04d5cd4",
+      "name": "nugetdep",
+      "publisher": "Freddy",
+      "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "20.0.0.0",
+  "runtime": "9.0",
   "idRanges": [
     {
       "from": 58000,
