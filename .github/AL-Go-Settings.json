@@ -1,4 +1,5 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/freddydk/AL-Go@bcptreport"
+  "templateUrl": "https://github.com/freddydk/AL-Go@nuget",
+  "templateSha": "0d19cb336fdda6a560c6ee17dbd6718533abf82d"
 }
